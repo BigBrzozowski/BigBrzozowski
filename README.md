@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigBrzozowski
-- 👀 I’m interested in Data Analyst/Data Science
+- 👀 I’m interested in Data Analyst/Data Science in enviromental science 
 - 🌱 I’m currently learning SQL/Python
-- 📫 How to reach me? 
+- 📫 How to reach me? Clink twice with cubes in the glass with white russian
 
 <!---
 BigBrzozowski/BigBrzozowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
