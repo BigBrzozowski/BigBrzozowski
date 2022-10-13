@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BigBrzozowski|
-- 👀 I’m interested in Data Analyst in enviromental science|
-- 🌱 I’m currently learning SQL;Python|
-- 📫 How to reach me? Clink twice with cubes in the glass with white russian, then i appear ;)| 
+- 👋 Hi, I’m @BigBrzozowski
+- 👀 I’m interested in Data Analyst in enviromental science
+- 🌱 I’m currently learning SQL;Python
+- 📫 How to reach me? Clink twice with cubes in the glass with white russian, then i appear ;)
 - 
 - brzosa@gmail.com
 
